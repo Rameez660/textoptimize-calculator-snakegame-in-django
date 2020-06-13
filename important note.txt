@@ -1,9 +1,0 @@
-code with harry start ki videos
-
-
-
-django ki 53 video me textutils complete h check it
-
-
-yaha se error solve kya tha deployment ka
-https://stackoverflow.com/questions/36665889/collectstatic-error-while-deploying-django-app-to-heroku
